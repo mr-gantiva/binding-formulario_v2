@@ -3,7 +3,7 @@
 Este proyecto es una aplicación desarrollada con Vue.js que incluye un formulario con diversos tipos de campos como entradas de texto, selecciones, botones de radio, casillas de verificación y áreas de texto. Los datos ingresados por el usuario se actualizan y muestran en tiempo real en la interfaz.
 
 ## Demo
-Puedes ver una demo del proyecto funcionando en el siguiente enlace: [Demo][https](https://binding-formulario-v2.netlify.app/)
+Puedes ver una demo del proyecto funcionando en el siguiente enlace: [Demo](https://binding-formulario-v2.netlify.app/)
 
 ## Tabla de Contenidos
 
